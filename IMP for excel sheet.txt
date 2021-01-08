@@ -1,0 +1,6 @@
+In pdf the formula which are mentioned for excel sheet are for old version.
+My excel sheet version is new so change in formulas.
+ 
+When i drag  it should show same value
+but it  shows diff values.
+So need to drag + sign for last 3 columns.
